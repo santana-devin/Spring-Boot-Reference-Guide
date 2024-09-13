@@ -9,32 +9,32 @@ Cópias deste documento podem ser feitas para seu prorio uso e para a distribui�
 
 <p align="center">Índice</p>
 
-I. Documentação do Spring Boot
-    1. Primeiros passos
-    2. Trabalhando com o Spring Boot
-    3. Aprendendo sobre os recursos do Spring Boot
-    4. Indo para produções
-    5. Tópicos avançados
-II. Introdução
-Apresentando o Spring Boot
-Instalando o Spring Boot
-Instruções de instalação para o desenvolvedor Java
-Instalação do Maven
-Instalando com GVM
-Instalação do OSX Homebrew
-Conclusão de linha de comando
-Exemplo de início rápido do Spring CLI
-Desenvolvendo seu primeiro aplicativo Spring Boot
-Criando o POM
-Adicionando dependências de classpath
-Escrevendo o código
-The @controller, @RequestMapping and @PesponseBody annotations
-Ths @EnableAutoConfiguation Annotation
-The "main" methodRunning the example
-Creationg an executable jar
-What to read next
-Using Spring Boot
-Build Systems
+I. Documentação do Spring Boot 
+    1. Primeiros passos 
+    2. Trabalhando com o Spring Boot 
+    3. Aprendendo sobre os recursos do Spring Boot 
+    4. Indo para produções 
+    5. Tópicos avançados 
+II. Introdução 
+Apresentando o Spring Boot 
+Instalando o Spring Boot 
+Instruções de instalação para o desenvolvedor Java 
+Instalação do Maven 
+Instalando com GVM 
+Instalação do OSX Homebrew 
+Conclusão de linha de comando 
+Exemplo de início rápido do Spring CLI 
+Desenvolvendo seu primeiro aplicativo Spring Boot 
+Criando o POM 
+Adicionando dependências de classpath 
+Escrevendo o código 
+The @controller, @RequestMapping and @PesponseBody annotations 
+Ths @EnableAutoConfiguation Annotation 
+The "main" methodRunning the example 
+Creationg an executable jar 
+What to read next 
+Using Spring Boot 
+Build Systems 
 
 
      
