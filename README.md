@@ -1,6 +1,5 @@
-<p align="center">
-  # Guia de referência do Spring Boot
-</p>
+
+# <p align="center"> Guia de referência do Spring Boot</p>
 
 <p align="center">1.0.0.RC5</br>Phillip Webb , Dave Syer , Josh Long , Stéphane Nicoll</p>
 
